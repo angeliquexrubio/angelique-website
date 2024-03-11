@@ -1,2 +1,13 @@
-## Resume
+---
+toc: false
+---
 
+## Academic Advancement Program
+
+As a research assistant for UCLA's Academic Advancement Program (AAP), I worked on multiple projects to assess the efficacy of various departments. These projects were intended to better understand the student experience and optimize the efficacy of various programs to maximize the retention of historically underrepresented students in higher education. 
+
+**Evaluation of UCLA Academic Advancement Program (AAP) Freshman/Transfer Summer Program Exit Survey**
+
+Upon entering UCLA, AAP students are invited to attend a summer program the summer before their first year (for traditional students) or their third year (for transfer students). As a research assistant for the Research, Assesment and Evaluation (RAE) unit of AAP, I was tasked with reviewing survey data from over 100 student responses at the end of the program and producing an info graphic to illustrate the key takeaways from over 100 student responses. 
+
+[Freshman/Transfer Summar Program Infographic](/Projects/FTSPExit.pdf "FTSP Infographic")
