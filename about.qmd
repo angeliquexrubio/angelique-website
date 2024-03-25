@@ -2,12 +2,29 @@
 toc: false
 ---
 
-## Academic Advancement Program
+**Developing a Spotify Recommendation System**
 
-As a research assistant for UCLA's Academic Advancement Program (AAP), I worked on multiple projects to assess the efficacy of various departments. These projects were intended to better understand the student experience and optimize the efficacy of various programs to maximize the retention of historically underrepresented students in higher education. 
+![Spotify Recommendation System Poster](/Projects/spotify_poster "Spotify Recommendation System Poster")
+
+[Spotify Recommendation System Report](/Projects/spotifypaper.pdf "Spotify Recommendation System Report")
+
+My most recent project involved successfully developing a Spotify-inspired song recommendation system using Python and Spotify API. My role on the project involved communicating the team's objectives, methods and results to an audience of my peers through a brief, informative presentation.
+
+**Predicting the Sentiment of a Movie or Television Show Review using Lexicon**
+
+[IMDb Sentiment Report](/Projects/sentiment_report.pdf "Sentiment Report")
+
+My team sought to predict the numerical rating of a movie using a data set of 50,000 IMDb movie reviews. We utilized principal component analysis to reduce the very high-dimensional, descriptive text reviews. My role on this project included evaluating the performance of my team's dimension-reduction methods using linear and quadratic determinant analysis. 
+
+**Island Experiment on the Effect of Caffeine on Short-Term Memory using Two-Way Randomized Factorial Design**
+
+[Caffeine and Short-Term Memory Report](/Projects/coffee_memory_paper.pdf "Caffeine & Short-Term Memory Report")
+
+Uniquely, this project involved designing an experiment using the Island, a virtual simulation containing thousands of virtual inhabitants that can participate in research experiments. My team designed a study that investigated the potential relationship between caffeine and its effects on human short-term memory using a two-way randomized factorial design. Given the multitude of experimental treatment options on the island, the design process involved significant research, communication, and collaboration from all team members. My role on the project included determining the necessary sample size using G*Power, obtaining consent and collecting data from virtual study participants, developing factor diagrams outlining the experiment design, and conducting a Post-HOC Analysis of Differences using Tukey's HSD.
 
 **Evaluation of UCLA Academic Advancement Program (AAP) Freshman/Transfer Summer Program Exit Survey**
 
-Upon entering UCLA, AAP students are invited to attend a summer program the summer before their first year (for traditional students) or their third year (for transfer students). As a research assistant for the Research, Assesment and Evaluation (RAE) unit of AAP, I was tasked with reviewing survey data from over 100 student responses at the end of the program and producing an info graphic to illustrate the key takeaways from over 100 student responses. 
+![Freshman/Transfer Summar Program Infographic](/Projects/FTSP_1)
+![Freshman/Transfer Summar Program Infographic](/Projects/FTSP_2)
 
-[Freshman/Transfer Summar Program Infographic](/Projects/FTSPExit.pdf "FTSP Infographic")
+As a research assistant for the Research, Assessment and Evaluation (RAE) unit of UCLA's Academic Advancement Program (AAP), I chose to investigate the efficacy of AAP's Peer Learning Unit. In doing so, I hoped to optimize a highly utilized program and contribute to the organization's mission to increase retention for historically underrepresented students in higher education. I was tasked with reviewing survey data from over 100 student responses and producing a data visual to communicate key takeaways to AAP stakeholders and non-stakeholders. 
